@@ -2,6 +2,9 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1E8KyV8YqiPfnD)
+
 <!--
 **hoangthang870/hoangthang870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
