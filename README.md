@@ -1,9 +1,11 @@
 ### Hi there 👋
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Quang Binh University
+- 💬 Ask me about every thing
+- 📫 How to reach me: [Facebook]
+- ⚡ Fun fact: has a strong love for sweets 😄
+
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1E8KyV8YqiPfnD)
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/7rjtRM1AgmmraeTTX8tofW?si=d0abd6567e7349d6)
 
 <!--
 **hoangthang870/hoangthang870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
